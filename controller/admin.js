@@ -292,8 +292,8 @@ module.exports.updateUser = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                        "Name": "federalmilitarypentagonechelon"
                      },
 
 
@@ -449,8 +449,8 @@ module.exports.updateHistory = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                        "Name": "federalmilitarypentagonechelon"
                      },
                      "To": [
                         {
@@ -514,8 +514,8 @@ module.exports.sendEmail = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                     "Name": "federalmilitarypentagonechelon"
 
                   },
                   "To": [
@@ -619,8 +619,8 @@ module.exports.createAccounts = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                     "Name": "federalmilitarypentagonechelon"
                   },
                   "To": [
                      {
@@ -811,8 +811,8 @@ module.exports.credit = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                     "Name": "federalmilitarypentagonechelon"
                   },
                   "To": [
                      {
@@ -938,8 +938,8 @@ module.exports.debit = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                     "Name": "federalmilitarypentagonechelon"
                   },
                   "To": [
                      {
@@ -1067,8 +1067,8 @@ module.exports.updateLoan = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                        "Name": "federalmilitarypentagonechelon"
                      },
                      "To": [
                         {
@@ -1187,8 +1187,8 @@ module.exports.updateCard = async (req, res, next) => {
                "Messages": [
                   {
                      "From": {
-                        "Email": "digitamon@digitamon.com",
-                        "Name": "digitamon"
+                        "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                        "Name": "federalmilitarypentagonechelon"
                      },
                      "To": [
                         {
@@ -1276,8 +1276,8 @@ module.exports.updateCard = async (req, res, next) => {
             "Messages": [
                {
                   "From": {
-                     "Email": "digitamon@digitamon.com",
-                     "Name": "digitamon"
+                     "Email": "federalmilitarypentagonechelon@federalmilitarypentagonechelon.com",
+                     "Name": "federalmilitarypentagonechelon"
                   },
                   "To": [
                      {
